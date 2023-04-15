@@ -1,5 +1,3 @@
-setwd("~/Desktop/Projects/Goniopteris_hybrid/Morphometric Data")
-
 library(dplyr)
 library(magrittr)
 library(ggplot2)
